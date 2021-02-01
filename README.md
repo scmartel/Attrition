@@ -3,7 +3,8 @@ End-to-end machine learning project completed for academic purposes. The aim of 
 
 The objective of the current synthetic dataset was to uncover the factors that lead to employee attrition and explore important questions such as ‘show me a breakdown of distance from home by job role and attrition’ or ‘compare average monthly income by education and attrition’. This is a fictional data set created by IBM data scientists.
 
-Description of categorical variables: 
+-- Description of categorical variables --  
+
 Education : (1: 'Below College',2: 'College', 3: 'Bachelor', 4: 'Master', 5: 'Doctor')
 
 EnvironmentSatisfaction: (1: 'Low', 2: 'Medium', 3: 'High', 4: 'Very High')
