@@ -6,9 +6,9 @@ The objective of the current synthetic dataset was to uncover the factors that l
 For the purpose of this project, a continuous variable was predicted (monthly salary) using valid predictors available from the Attrition dataset. 
 
 ### Data Description ###
-* Age; Age of employee
-* Attrition; (Yes/No) Whether an employee retire/resigns
-* BusinessTravel; Frequency of business travel
+* Age: Age of employee
+* Attrition: (Yes/No) Whether an employee retire/resigns
+* BusinessTravel: Frequency of business travel
 * DailyRate: Daily rates of production
 * Department: Company department
 * DistanceFromHome: Distance from the employees home
